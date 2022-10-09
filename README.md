@@ -12,7 +12,7 @@ From the dataset, I would analyze the factors that contribute to risk of having 
 The dataset used for this analysis was gotten from www.kaggle.com 
 # Attributes of the data
 The following are what each field in the dataset means:
-Diabetes - 0 = no diabetes 1 = prediabetes 2 = diabetes
-High Blood Pressure - 0 = no high blood pressure 1 = high blood pressure
-High Cholesterol - 0 = no high cholesterol 1 = high cholesterol
-Cholesterol Check - 0 = no cholesterol check in 5 years 1 = yes cholesterol check in 5 years
+-Diabetes - 0 = no diabetes 1 = prediabetes 2 = diabetes
+-High Blood Pressure - 0 = no high blood pressure 1 = high blood pressure
+-High Cholesterol - 0 = no high cholesterol 1 = high cholesterol
+-Cholesterol Check - 0 = no cholesterol check in 5 years 1 = yes cholesterol check in 5 years
