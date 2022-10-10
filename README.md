@@ -37,3 +37,6 @@ The following are what each field in the dataset means:
 # Data Cleaning in Microsoft Excel
 The dataset was checked for duplicate values, 23899 duplicate values were found and removed and 229,781 unique values remained.
 ![diabetes duplicate](https://user-images.githubusercontent.com/109909855/194786316-3ab3a8c3-17fc-4427-927c-85c683f5d99b.JPG)
+The datset was checked for misspellings and null values, No misspelling or null value was found.
+Column names were renamed for clarity.
+![diabetes spell check](https://user-images.githubusercontent.com/109909855/194786604-f0d4075a-8d2d-425e-9cbe-fc61fb00135b.JPG)
