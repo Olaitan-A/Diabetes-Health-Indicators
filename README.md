@@ -35,3 +35,5 @@ The following are what each field in the dataset means:
 * Education - Education level (EDUCA see codebook) scale 1-6) 1 = Never attended school or only kindergarten 2 = Grades 1 through 8
 * Income - Income scale (INCOME2 see codebook) (scale 1-8) 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more
 # Data Cleaning in Microsoft Excel
+The dataset was checked for duplicate values, 23899 duplicate values were found and removed and 229,781 unique values remained.
+![diabetes duplicate](https://user-images.githubusercontent.com/109909855/194786316-3ab3a8c3-17fc-4427-927c-85c683f5d99b.JPG)
