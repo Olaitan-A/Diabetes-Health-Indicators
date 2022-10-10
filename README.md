@@ -34,3 +34,4 @@ The following are what each field in the dataset means:
 * Age - 13-level age category (_AGEG5YR see codebook) 1 = 18-24 9 = 60-64 13 = 80 or older
 * Education - Education level (EDUCA see codebook) scale 1-6) 1 = Never attended school or only kindergarten 2 = Grades 1 through 8
 * Income - Income scale (INCOME2 see codebook) (scale 1-8) 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more
+# Data Cleaning in Microsoft Excel
