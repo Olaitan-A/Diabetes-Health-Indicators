@@ -44,3 +44,5 @@ The dataset was checked for duplicate values, 23899 duplicate values were found 
 The dataset was checked for misspellings and null values, No misspelling or null value was found.
 Column names were renamed for clarity.
 ![diabetes spell check](https://user-images.githubusercontent.com/109909855/194786604-f0d4075a-8d2d-425e-9cbe-fc61fb00135b.JPG)
+# Visualization
+Visualization for this project was done with MICROSOFT EXCEL.
