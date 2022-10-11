@@ -7,7 +7,11 @@ After different foods are broken down into sugars during digestion, the sugars a
 According to the World Health Organization (WHO), In 2014, 8.5% of adults aged 18 years and older had diabetes. In 2019, diabetes was the direct cause of 1.5 million deaths and 48% of all deaths due to diabetes occurred before the age of 70 years. Another 460 000 kidney disease deaths were caused by diabetes, and raised blood glucose causes around 20% of cardiovascular deaths.
 While there is no cure for diabetes, early diagnosis can lead to lifestyle changes and more effective treatment. In this project, I analyzed diabetes health-related telephone survey collected by The Behavioural Risk Factor Surveillance System (BRFSS) from over 200,000  Americans.
 # Problem Statement
-From the dataset, I would analyze the factors that contribute to risk of having diabetes and how lifestyle influences this risk. 
+From the dataset, I would analyze how different factors contribute to the risk of having diabetes. This analysis will be focused on the following factors :
+* Average Body Mass Index
+* Gender
+* Age
+* Underlying Illness and access to healthcare. 
 # Data Source
 The dataset used for this analysis was gotten from www.kaggle.com 
 # Attributes of the data
