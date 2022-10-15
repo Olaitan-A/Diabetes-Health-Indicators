@@ -52,3 +52,5 @@ Visualization for this project was done with MICROSOFT EXCEL.
 ![image](https://user-images.githubusercontent.com/109909855/195996725-4dc436e7-afba-412c-8599-ed4bc3844546.png)
 
 People with diabetes had the highest average BMI - 31.96, followed by prediabetic patients with an average BMI of 30.766. Non-diabetic patients had an average of 28.031(the lowest). 
+* A total number of 35,097 patients reported that they were diabetic, Out of this total, 16752 of them were males accounting for 47.73%. 18345 of them were females accounting for 52.27%.
+![image](https://user-images.githubusercontent.com/109909855/195997409-b06f8066-9f00-4dcb-89dd-dd9833e75823.png)
