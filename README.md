@@ -47,3 +47,7 @@ Column names were renamed for clarity.
 # Visualization
 Visualization for this project was done with MICROSOFT EXCEL.
 ![diabetes dashboard](https://user-images.githubusercontent.com/109909855/195995452-3ebbc3e8-75e9-4733-aaf2-dd8057dd7304.JPG)
+# Insights
+* From the dataset, it was deduced that people with a higher average Body Mass Index (BMI) were at a higher risk of having diabetes. 
+![image](https://user-images.githubusercontent.com/109909855/195996725-4dc436e7-afba-412c-8599-ed4bc3844546.png)
+People with diabetes had the highest average BMI - 31.96, followed by prediabetic patients with an average BMI of 30.766. Non-diabetic patients had an average of 28.031(the lowest). 
