@@ -56,3 +56,6 @@ People with diabetes had the highest average BMI - 31.96, followed by prediabeti
 ![image](https://user-images.githubusercontent.com/109909855/195997409-b06f8066-9f00-4dcb-89dd-dd9833e75823.png)
 * Analysis of this dataset showed that diabetes is more common in older people.
 ![image](https://user-images.githubusercontent.com/109909855/195997636-a62d373d-ec08-4ae4-a630-7816facef7d0.png)
+* Underlying illnesses of diabetic and non diabetic patients were also analyzed, high cholesterol, high blood pressure, stroke and heart disease were analyzed.
+![image](https://user-images.githubusercontent.com/109909855/195997900-e382ffb5-2b1a-4ec1-ae1a-832be796003f.png)
+As seen above, underlying illnesses were spread across the three categories, non-diabetic patients had the highest occurrence of high blood pressure and high cholesterol, this shows that the underlying illnesses mentioned above are not a direct cause of diabetes in people.
