@@ -62,7 +62,7 @@ People with diabetes had the highest average BMI - 31.96, followed by prediabeti
 * Underlying illnesses of diabetic and non diabetic patients were also analyzed, high cholesterol, high blood pressure, stroke and heart disease were analyzed.
 
 
-![Underlying health disease by condition - data analyst](https://user-images.githubusercontent.com/109909855/225303407-27f779d2-2fa2-4e4d-98ef-8296e829c9e9.JPG)
+![Capture](https://user-images.githubusercontent.com/109909855/225304813-d443c010-c5c3-4e42-94ca-60ba2744b947.JPG)
 
 
 As seen above, underlying illnesses were spread across the three categories, non-diabetic patients had the highest occurrence of high blood pressure and high cholesterol, this shows that the underlying illnesses mentioned above are not a direct cause of diabetes in people.
