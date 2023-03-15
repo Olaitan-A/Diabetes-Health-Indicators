@@ -46,7 +46,8 @@ Column names were renamed for clarity.
 ![diabetes spell check](https://user-images.githubusercontent.com/109909855/194786604-f0d4075a-8d2d-425e-9cbe-fc61fb00135b.JPG)
 # Visualization
 Visualization for this project was done with MICROSOFT EXCEL.
-![diabetes dashboard](https://user-images.githubusercontent.com/109909855/195995452-3ebbc3e8-75e9-4733-aaf2-dd8057dd7304.JPG)
+![Final Diabetes Dashboard](https://user-images.githubusercontent.com/109909855/225300527-16812347-3bd3-4cbe-a6e4-f5ba53527a3f.JPG)
+
 # Insights
 * From the dataset, it was deduced that people with a higher average Body Mass Index (BMI) were at a higher risk of having diabetes. 
 ![image](https://user-images.githubusercontent.com/109909855/195996725-4dc436e7-afba-412c-8599-ed4bc3844546.png)
