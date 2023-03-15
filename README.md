@@ -69,4 +69,5 @@ As seen above, underlying illnesses were spread across the three categories, non
 
 * Access to healthcare was the last metric used in this analysis. As shown below, proper access to healthcare was associated with no diabetes.
 * 
-![image](https://user-images.githubusercontent.com/109909855/195998306-d2d4b7ee-eac7-43ee-8ddc-32cfaa79ebb8.png)
+![Access to healthcare by condition - Final dataset](https://user-images.githubusercontent.com/109909855/225303997-84bdaba8-cbbe-4a2f-aecd-12f62452624a.JPG)
+
